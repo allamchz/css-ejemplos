@@ -1,0 +1,7 @@
+.demo {
+    display: inline-block;
+    transform: scale(1.2);
+    background: #2ecc71;
+    padding: 20px;
+    color: white;
+}

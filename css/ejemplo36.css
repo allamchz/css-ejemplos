@@ -1,0 +1,12 @@
+.parallax {
+  background-image: url('https://via.placeholder.com/800x400');
+  height: 200px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,9 @@
+.demo {
+    padding: 10px;
+}
+.demo:focus {
+    border: 2px solid #e67e22;
+}
+.demo:hover {
+    background: #ecf0f1;
+}

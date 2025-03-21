@@ -1,0 +1,6 @@
+.demo::before {
+    content: "👈 ";
+}
+.demo::after {
+    content: " 👉";
+}

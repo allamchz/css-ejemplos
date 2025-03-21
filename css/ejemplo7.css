@@ -1,0 +1,10 @@
+.demo {
+    width: 100px;
+    height: 100px;
+    background: tomato;
+    animation: mover 2s infinite alternate;
+}
+@keyframes mover {
+    from { transform: translateX(0); }
+    to { transform: translateX(100px); }
+}

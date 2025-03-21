@@ -1,0 +1,9 @@
+.demo {
+    padding: 20px;
+    background: #e74c3c;
+    color: white;
+    transition: transform 0.3s ease;
+}
+.demo:hover {
+    transform: scale(1.1);
+}

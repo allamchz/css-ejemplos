@@ -1,0 +1,10 @@
+.demo {
+  width: 100px;
+  height: 100px;
+  background: #9b59b6;
+  transition: all 0.3s ease;
+}
+.demo:hover {
+  width: 200px;
+  height: 200px;
+}

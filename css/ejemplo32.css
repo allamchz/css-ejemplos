@@ -1,0 +1,18 @@
+.demo {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 300px;
+  margin: auto;
+}
+.demo input, .demo button {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.demo button {
+  background: #2ecc71;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

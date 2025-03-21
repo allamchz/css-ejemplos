@@ -1,0 +1,11 @@
+.demo {
+    background-color: #2ecc71;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.demo:hover {
+    background-color: #27ae60;
+}

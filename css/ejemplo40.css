@@ -1,0 +1,6 @@
+.clip-demo {
+  width: 200px;
+  height: 200px;
+  background: #e74c3c;
+  clip-path: polygon(50% 0%, 100% 100%, 0% 100%);
+}

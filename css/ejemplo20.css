@@ -1,0 +1,12 @@
+.scrollbox {
+    width: 300px;
+    height: 150px;
+    overflow-y: scroll;
+}
+.scrollbox::-webkit-scrollbar {
+    width: 10px;
+}
+.scrollbox::-webkit-scrollbar-thumb {
+    background-color: #3498db;
+    border-radius: 5px;
+}

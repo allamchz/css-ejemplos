@@ -1,0 +1,19 @@
+.box1, .box2 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    color: white;
+    padding: 10px;
+}
+.box1 {
+    background: #c0392b;
+    top: 50px;
+    left: 50px;
+    z-index: 1;
+}
+.box2 {
+    background: #2980b9;
+    top: 80px;
+    left: 80px;
+    z-index: 2;
+}
